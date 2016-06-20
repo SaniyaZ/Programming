@@ -1,0 +1,110 @@
+НОВЫЙ ПОСТ:
+Шпаргалка с примерами и сниппетами по четвёртому бутстрапу
+
+#link@itcookies #frontend@itcookies #bootstrap@itcookies
+
+НОВЫЙ ПОСТ:
+Подборка русскоязычных книг для изучения JavaScript.
+
+#link@itcookies #book@itcookies #js@itcookies
+
+НОВЫЙ ПОСТ:
+Взлом программ в OllyDbg
+
+Полный курс в видеоальбоме: vk.cc/57duXV
+
+#video@itcookies #hack@itcookies
+
+НОВЫЙ ПОСТ:
+Сети для самых маленьких (Cisco)
+
+• Выпуск первый. Подключение
+• Выпуск второй. Коммутация
+• Выпуск третий. Маршрутизация
+• Выпуск четвёртый. STP
+• Выпуск пятый. ACL и NAT
+• Выпуск шестой. OSPF
+• Микровыпуск №1. Переход на GNS3
+• Выпуск седьмой. VPN
+• Выпуск восьмой. BGP
+• Микровыпуск №3. IBGP
+
+Полный курс в видеоальбоме: vk.cc/52EFFT
+
+#video@itcookies #sysad@itcookies
+
+НОВЫЙ ПОСТ:
+https://github.com/yiisoft/yii2-app-advanced/blob/master/docs/guide/start-installation.md
+
+НОВЫЙ ПОСТ:
+Уроки по Laravel
+
+Laravel — один из самых популярных PHP-фреймворков, обладающий выразительным и элегантным синтаксисом. Он создавался как попытка объединить только все лучшее, что есть в других PHP-фреймворках, а также Ruby on Rails, ASP . NET MVC и Sinatra. 
+
+1. Установка Laravel. 
+2. Структура файла. 
+3. Маршрутизация. 
+4. Модель. 
+5. Artisan 
+6. Отношения. 
+7. Представление. 
+8. Шаблонизатор Blade. 
+9. Контроллеры. 
+10. Аутентификация. 
+11. Middleware. 
+11. Миграции 
+12. Запросы, CSRF 
+
+Полный курс в видеоальбоме: vk.cc/50TTro
+
+#video@itcookies #php@itcookies #laravel@itcookies
+
+НОВЫЙ ПОСТ:
+Не секрет, что многие алгоритмы легче понимать, когда наглядно видно, как они работают. Представляем вашему вниманию сайт, который содержит множество визуализаций алгоритмов и структур данных.
+
+#link@itcookies
+
+НОВЫЙ ПОСТ:
+Java EE
+
+1. Maven. Сборка проекта.
+2. Java Servlets. Web-services. Часть 1
+3. Java Servlets. Web-services. Часть 2
+4. Разработка web-сервиса на Java (интернет-магазин)
+5. Организация бизнес-логики приложения.
+6. Java Servlets. Многопоточность
+7. Spring tutorial. Обзор фреймворка Spring. Часть 1.
+8. Spring tutorial. Обзор фреймворка Spring. Часть 2.
+9. Установка и конфигурирование Spring
+10. Конфигурирование Web MVC в Spring
+
+#video@itcookies #java@itcookies
+
+НОВЫЙ ПОСТ:
+Видеокурс ReactJS Essential 
+
+Урок 1. Введение в React
+Урок 2. Подробнее о компонентах
+Урок 3. Окружение
+Урок 4. Роутинг и ES2015
+
+#video@itcookies #js@itcookies #react@itcookies
+
+НОВЫЙ ПОСТ:
+Javascript / jQuery
+
+1. Основы.
+2. Селекторы и фильтры.
+3. Основные функции jQuery.
+4. Создание галереи картинок jQuery.
+5. Создание якорей. Scroll jQuery.
+6. Создание слайдера jQuery.
+7. Создание анимации jQuery.
+8. POST запрос с помощью JavaScript и jQuery.
+9. Использование localStorage.
+10. Как сделать JavaScript Autocomplete.
+
+Полный курс в видеоальбоме: vk.cc/4OOPsQ
+
+#video@itcookies #js@itcookies #jquery@itcookies
+
